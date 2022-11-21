@@ -1,6 +1,8 @@
 # HotelManagement
 On Going Web Application built using MEAN Stack
 
+<h2>Database: MongoDB </h2>
+
 
 
 
