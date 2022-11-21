@@ -2,6 +2,9 @@
 On Going Web Application built using MEAN Stack
 
 <h2>Database: MongoDB </h2>
+<h2>BackEnd Framework: ExpressJS </h2>
+<h2>FrontEnd: Angular</h2>
+<h2>Server: nodeJS </h2>
 
 
 
