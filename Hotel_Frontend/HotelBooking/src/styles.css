@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import "css/bootstrap.css";
+@import "css/_elements.css";
+@import "css/_footer.css";
+@import "css/responsive.css";
+@import "css/style.css";
+@import "css/_testimonial.css";
+@import "~alertifyjs/build/css/alertify.min.css";
+@import "~alertifyjs/build/css/themes/bootstrap.rtl.min.css";
